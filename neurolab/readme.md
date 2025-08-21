@@ -38,9 +38,9 @@
 Аугментации - преобразования, направленные на увеличение обучающей выборки, увеличение разнообразия и репрезентативности выборки. -->
 
 Наборы данных для обучения:
-- Французские рукописи <a src="https://zenodo.org/records/5535306">Guerin</a>
-- <a src="https://www.kaggle.com/datasets/constantinwerner/cyrillic-handwriting-dataset?select=train">Рукописная Кириллица
-- и <a src="https://www.kaggle.com/search?q=OCR+in%3Adatasets">другие</a>
+- Французские рукописи [Guerin](https://zenodo.org/records/5535306)
+- [Рукописная Кириллица](https://www.kaggle.com/datasets/constantinwerner/cyrillic-handwriting-dataset?select=train)
+- и [другие](https://www.kaggle.com/search?q=OCR+in%3Adatasets)
 
 
 ### Обучение сети для извлечения текста из строк
